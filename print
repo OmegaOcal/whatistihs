@@ -1,1 +1,4 @@
-
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/OmegaOcal/whatistihs/main/print1"),true))()
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/OmegaOcal/whatistihs/main/print2"),true))()
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/OmegaOcal/whatistihs/main/print3"),true))()
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/OmegaOcal/whatistihs/main/print4"),true))()
